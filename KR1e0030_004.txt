@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋五禮例宗,卷五,卷四,卷六
-#+DATE: 2015-09-23 09:39:30
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:13:30.351632
+#+PROPERTY: ID KR1e0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五 [原闕]
 <pb:KR1e0030_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋五禮例宗卷五¶
@@ -25,4 +27,3 @@
 　¶
 　¶
 　春秋五禮例宗卷五¶
-
